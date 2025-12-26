@@ -1,4 +1,6 @@
+ZALO|https://zalo.me/g/wfkami189
 YOUTUBE|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
 FACEBOOK|https://www.facebook.com/vu.kgg
-STATUS|test status
+STATUS|? ?ang gi?m gi? 50% tr??c 2026
+UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
 LATEST_VERSION|1.0.0
