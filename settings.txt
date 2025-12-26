@@ -1,6 +1,7 @@
-ZALO|https://zalo.me/g/wfkami189
-YOUTUBE|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
-FACEBOOK|https://www.facebook.com/vu.kgg
-STATUS|? ?ang gi?m gi? 50% tr??c 2026
-UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
+BUY_LINK|https://gumroad.com/l/xjqjw
+STATUS|? ?ang gi?m gi? 50%...
 LATEST_VERSION|1.0.0
+UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
+ZALO|https://zalo.me/g/wfkami189
+FACEBOOK|https://www.facebook.com/vu.kgg
+YOUTUBE|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
